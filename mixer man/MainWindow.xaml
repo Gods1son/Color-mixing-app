@@ -1,0 +1,26 @@
+﻿<Window x:Class="mixer_man.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Let's mix colors" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Label Name="lblRed" Content="Red:" FontSize="30" HorizontalContentAlignment="Center"/>
+        <Label Name="lblGreen" Content="Green:" FontSize="30" HorizontalContentAlignment="Center" Grid.Row="1"/>
+        <Label Name="lblBlue" Content="Blue:" FontSize="30" HorizontalContentAlignment="Center" Grid.Row="2"/>
+        <Slider Name="sldRed" Grid.Column="1" Minimum="0" Maximum="255" ValueChanged="sldRed_ValueChanged" VerticalAlignment="Center" Background="red" Cursor="ScrollWE"/>
+        <Slider Name="sldGreen" Grid.Column="1" Grid.Row="1" Minimum="0" Maximum="255" ValueChanged="sldRed_ValueChanged" VerticalAlignment="Center" Background="Green" Cursor="ScrollWE"/>
+        <Slider Name="sldBlue" Grid.Column="1" Grid.Row="2" Minimum="0" Maximum="255" ValueChanged="sldRed_ValueChanged" VerticalAlignment="Center" Background="Blue" Cursor="ScrollWE"/>
+        <Border BorderThickness="2" Grid.Row="4" Grid.Column="0" BorderBrush="Black" Grid.ColumnSpan="2">
+        <Canvas Name="cnvColor" Grid.Row="4" Grid.Column="0" Background="White" Grid.ColumnSpan="2"/>
+        </Border>
+    </Grid>
+</Window>

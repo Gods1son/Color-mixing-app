@@ -1,0 +1,13 @@
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\bin\Debug\mixer man.exe.config
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\bin\Debug\mixer man.exe
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\bin\Debug\mixer man.pdb
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\mixer man.csprojResolveAssemblyReference.cache
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\MainWindow.baml
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\MainWindow.g.cs
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\App.g.cs
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\mixer man_MarkupCompile.cache
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\mixer man.g.resources
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\mixer_man.Properties.Resources.resources
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\mixer man.csproj.GenerateResource.Cache
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\mixer man.exe
+c:\users\gods1\documents\visual studio 2013\Projects\mixer man\mixer man\obj\Debug\mixer man.pdb
